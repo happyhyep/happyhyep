@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyhyep&show_icons=true&theme=radical)
+
+<a href="https://www.instagram.com/happyhyep_day/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
