@@ -30,7 +30,7 @@
 <a href="mailto:jhi2359@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ##
-<div align="center"><h3>💻 profile 💻</h3></div>
+<div align="center"><h3>💻 Profile 💻</h3></div>
 <br>
 <p>🖤 <del>Pohang Jangseong School 15th graduation</del> 🖤</p>
 <p>💚 <b>KyungHee University Computer Science & Engineering (major)</b> 💚</p>
