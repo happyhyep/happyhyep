@@ -12,9 +12,12 @@
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
- 
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+
 ##
 <div align="center"><h3>🖌 Design 🖌</h3></div>
 <br>
@@ -34,7 +37,7 @@
 ##
 <div align="center"><h3>💻 Profile 💻</h3></div>
 <br>
-<p>🖤 <del>Pohang Jangseong School 15th graduation</del> 🖤</p>
+<p>🖤 <del>Pohang Jangseong High School 15th graduation</del> 🖤</p>
 <p>💚 <b>KyungHee University Computer Science & Engineering (major)</b> 💚</p>
 <p>💛 <i>KyungHee University Visual Design (minor)</i> 💛</p>
 </div>
