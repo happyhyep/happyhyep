@@ -38,6 +38,9 @@
 <div align="center"><h3>💻 Profile 💻</h3></div>
 <br>
 <p>🖤 <del>Pohang Jangseong High School 15th graduation</del> 🖤</p>
-<p>💚 <b>KyungHee University Computer Science & Engineering (major)</b> 💚</p>
+<h4>💚 <b>KyungHee University Computer Science & Engineering (major)</b> 💚</h4>
+<h6> - 2022 컴퓨터공학부 부학생회장 <h6>
+<p> - 2023 컴퓨터공학부 학생회장<p>  
 <p>💛 <i>KyungHee University Visual Design (minor)</i> 💛</p>
+
 </div>
