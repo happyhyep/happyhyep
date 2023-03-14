@@ -1,4 +1,4 @@
-<div align="center"><h1> Welcome, I'm @happyhyep 👋</h1></div>
+<div align="center"><h1> Welcome, @happyhyep 👋</h1></div>
 
 <div align="center">
 <div align="center"><h3>GitHub stats</h3></div>
@@ -44,5 +44,3 @@
 <h6> - 2022 컴퓨터공학부 부학생회장 <h6>
 <p> - 2023 컴퓨터공학부 학생회장 <p>
 <p>💛 <i>KyungHee University Visual Design (minor)</i> 💛</p>
-
-</div>
