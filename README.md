@@ -1,4 +1,4 @@
-<div align="center"><h1> Welcome, I'am @happyhyep 👋</h1></div>
+<div align="center"><h1> Hi, I'am @happyhyep 👋</h1></div>
 
 <div align="center">
 <div align="center"><h3>GitHub stats</h3></div>
