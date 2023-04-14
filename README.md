@@ -16,7 +16,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  
 ##
 <div align="center"><h3>🖌 Design 🖌</h3></div>
 <br>
