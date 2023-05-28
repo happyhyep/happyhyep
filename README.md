@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/happyhyep/clone-twitter/assets/103382269/69b91e94-8c80-4272-b4d7-c1fb5ecab781" /></div>
 
-<div align="center">
+<div align="center"> 
  
 <!-- ![Jeonghyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyhyep&show_icons=true&theme=radical)
   <br>   
