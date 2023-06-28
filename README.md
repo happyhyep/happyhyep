@@ -2,7 +2,7 @@
 
 <div align="center"><h3>"always happy, happyhyep"</h3></div>
 <div align="center">행복하게 매순간 최선을 다하는 개발자, 정혜인입니다.</div>
-<div align="center"><a href="https://happyhyep.github.io/blog/" target="_blank">블로그 바로가기 (아직 개발중)</a></div>
+<div align="center"><a href="https://happyhyep.github.io/blog/" target="_blank">포트폴리오 사이트 바로가기 (여유롭게 개발중)</a></div>
 
 ##
 <div align="center">  
@@ -26,6 +26,7 @@
 ##
 <div align="center"><h3>☁️ Cloud Computing ☁️</h3></div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
   
 ##
@@ -43,7 +44,7 @@
 <div align="center"><h3>📧 Contact 📧</h3></div>
 <br>
 <a href="https://www.instagram.com/happyhyep_day/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.github/happyhyep/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://velog.io/@happyhyep" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="http://khuhub.khu.ac.kr/u/2021105641" target="_blank"><img src="https://img.shields.io/badge/KhuHub-FC6D26?style=flat&logo=GitLab&logoColor=white"/></a>
 <a href="mailto:jhi2359@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:jhi2359@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
