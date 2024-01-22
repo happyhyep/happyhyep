@@ -31,7 +31,6 @@
 ##
 <div align="center"><h3>☁️ Cloud Computing ☁️</h3></div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
   
 ##
