@@ -27,11 +27,16 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  
-##
-<div align="center"><h3>☁️ Cloud Computing ☁️</h3></div>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+<br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
+
+##
+<div align="center"><h3>☁️ Collaborate ☁️</h3></div>
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white"/> 
+<img src="https://img.shields.io/badge/monday-ECD53F?style=flat&logo=&logoColor=white"/> 
+<img src="https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white"/> 
+
   
 ##
 <div align="center"><h3>🖌 Design 🖌</h3></div>
