@@ -30,6 +30,10 @@
 <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
+<br>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 
 ##
 <div align="center"><h3>☁️ Collaborate ☁️</h3></div>
@@ -42,10 +46,6 @@
 <div align="center"><h3>🖌 Design 🖌</h3></div>
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/>
@@ -63,12 +63,12 @@
 <div align="center"><h3>💻 Profile 💻</h3></div>
 <p>👩🏻‍💻더 많은 내용은 포트폴리오를 참고해주세요👩🏻‍💻</p>
 
-<h6>- 경희대학교 컴퓨터공학과 (2021.02 ~ )</h6>
-<h6>- 경희대학교 컴퓨터공학부 부학생회장 (2022.03 ~ )<h6>
+<h6>- 경희대학교 컴퓨터공학과 ( 2021.02 ~ )</h6>
+<h6>- 경희대학교 컴퓨터공학부 부학생회장 ( 2022.03 ~ )<h6>
  <h6>- 경희대학교 소프트웨어융합대학 동아리대항전 최우수 ( 2022.08 )</h6>
-<h6>- 경희대학교 컴퓨터공학부 학생회장 (2023.01 ~ ) <h6>
-<h6>- San Jose Univ. 전공연수, 2023 CES 참여 (2023.01 ) <h6>
-<h6>- San Jose State University Enterpreneurship Award 최우수 (2023.01 ) </h6>
-<h6>- (주) 팜피 인턴 (2023.09 ~ 2023.12)</h6>
-<h6>- 애플디벨로퍼 아카데미 3기 (2024.03 ~ )</h6>
+<h6>- 경희대학교 컴퓨터공학부 학생회장 ( 2023.01 ~ ) <h6>
+<h6>- San Jose Univ. 전공연수, 2023 CES 참여 ( 2023.01 ) <h6>
+<h6>- San Jose State University Enterpreneurship Award 최우수 ( 2023.01 ) </h6>
+<h6>- (주) 팜피 인턴 ( 2023.09 ~ 2023.12 )</h6>
+<h6>- Apple Developer Academy@POSTECH 3기 ( 2024.03 ~ )</h6>
 <h6>...</h6>
