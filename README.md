@@ -19,7 +19,7 @@
 <h6>- San Jose Univ. 전공연수, 2023 CES 참여 ( 2023.01 ) <h6>
 <h6>- San Jose State University Enterpreneurship Award 최우수 ( 2023.01 ) </h6>
 <h6>- (주) 팜피 인턴 ( 2023.09 ~ 2023.12 )</h6>
-<h6>- Apple Developer Academy@POSTECH 3기 ( 2024.03 ~ )</h6>
+<h6>- Apple Developer Academy @ POSTECH 3기 ( 2024.03 ~ )</h6>
 <h6>...</h6>
 
 
