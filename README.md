@@ -18,7 +18,7 @@
 <h6>- 경희대학교 컴퓨터공학부 학생회장 ( 2023.01 ~ ) <h6>
 <h6>- San Jose Univ. 전공연수, 2023 CES 참여 ( 2023.01 ) <h6>
 <h6>- San Jose State University Enterpreneurship Award 최우수 ( 2023.01 ) </h6>
-<h6>- (주) 팜피 인턴 ( 2023.09 ~ 2023.12 )</h6>
+<h6>- (주) 팜피 개발팀 인턴 ( 2023.09 ~ 2023.12 )</h6>
 <!-- <h6>- Apple Developer Academy @ POSTECH 3기 ( 2024.03 ~ )</h6> -->
 <h6>...</h6>
 
@@ -41,7 +41,7 @@
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 <br>
