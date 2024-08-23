@@ -10,7 +10,7 @@
 
 
 <div align="center"><h3>💻 Profile 💻</h3></div>
-<p>👩🏻‍💻더 많은 내용은 포트폴리오를 참고해주세요👩🏻‍💻</p>
+<p>👩🏻‍💻더 많은 내용은 <a href="https://happyhyep.github.io/portfolio/" target="_blank">포트폴리오</a>를 참고해주세요👩🏻‍💻</p>
 
 <h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학과</a> ( 2021.02 ~ )</h6>
 <h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학부</a> 부학생회장 ( 2022.03 ~ )<h6>
