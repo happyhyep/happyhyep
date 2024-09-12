@@ -18,7 +18,7 @@
 <h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학부</a> 학생회장 ( 2023.01 ~ ) <h6>
 <h6>- <a href="https://www.sjsu.edu/">San Jose State Univ. (in california)</a> 전공연수, <a href="https://www.ces.tech/">2023 CES</a> 참여 ( 2023.01 ) <h6>
 <h6>- <a href="https://www.sjsu.edu/">San Jose State University</a> Enterpreneurship Award 최우수 ( 2023.01 ) </h6>
-<h6>- <a href="https://www.famppy.com/" target="_blank">(주) 팜피</a> 개발팀 인턴 ( 2023.09 ~ 2023.12 )</h6>
+<h6>- <a href="https://brand.apoc.day/" target="_blank">(주) 팜피</a> 개발팀 인턴 ( 2023.09 ~ 2023.12 )</h6>
  <!-- <h6>- Apple Developer Academy @ POSTECH 3기 ( 2024.03 ~ )</h6> -->
 <h6>- <a href="https://www.famppy.com/" target="_blank">네이버 부스트캠프 웹모바일</a> 베이직&챌린지 과정 수료 ( 2024.06 ~ 2024.08 )</h6>
 <h6>- <a href="https://www.famppy.com/" target="_blank">네이버 부스트캠프 웹모바일</a> 멤버십 과정 ( 2024.08 ~ )</h6>
