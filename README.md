@@ -33,13 +33,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=black"/>
-<br>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinia-F2E142?style=flat&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/i18Next-26A69A?style=flat&logo=i18Next&logoColor=white" />
-<img src="https://img.shields.io/badge/VueI18n-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-<img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=eslint&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
