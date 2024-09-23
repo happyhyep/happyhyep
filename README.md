@@ -93,17 +93,17 @@
    <tr>
       <td>
         <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-Element%EB%A5%BC-%EC%B6%94%EA%B0%80%ED%95%A0%EA%B9%8C-innerHTML">
-         <img src="https://github.com/user-attachments/assets/44feadc8-0d9c-4a80-9367-ab0feab40d78" />
+         <img src="https://github.com/user-attachments/assets/6d1e1c37-cec1-46dc-85d7-381d42ce1f9d" />
        </a>
      </td>
      <td>
           <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-CSR-vs-SSR?type=Blog">
-           <img src="https://github.com/user-attachments/assets/1ac548af-40eb-4130-b7c5-8b9b82e1cbdc" />
+           <img src="https://github.com/user-attachments/assets/aa94c92d-d6d0-4855-81da-e184f2d2fa97" />
          </a>
      </td>
      <td>
         <a href="https://velog.io/@happyhyep/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%88%EC%BF%A0%EC%86%8C%EB%A5%BC-%EC%9D%BD%EA%B3%A0">
-         <img src="https://github.com/user-attachments/assets/ebbdcfa1-5622-4ca8-86cb-8af89e0f8dcc" />
+         <img src="https://github.com/user-attachments/assets/b58161fe-2c28-449e-939b-32043f9de21a" />
        </a>
      </td>
    </tr>
