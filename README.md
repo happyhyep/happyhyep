@@ -88,7 +88,7 @@
 
 ##
 
-<div align="center"><h3>✒ Blog ✒</h3>
+<div align="center"><h3>✒ Recent Post ✒</h3>
  <table witdh="100%" align="center">
    <tr>
       <td>
