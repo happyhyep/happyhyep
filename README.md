@@ -86,3 +86,22 @@
   </a>
 </div>
 -->
+
+<!--
+<div align="center"><h3>✒ Blog ✒</h3>
+ <table witdh="100%" align="center">
+   <tr>
+     <td>
+          <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-CSR-vs-SSR?type=Blog">
+           <img src="https://github.com/user-attachments/assets/1ac548af-40eb-4130-b7c5-8b9b82e1cbdc" />
+         </a>
+     </td>
+     <td>
+        <a href="https://velog.io/@happyhyep/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%88%EC%BF%A0%EC%86%8C%EB%A5%BC-%EC%9D%BD%EA%B3%A0">
+         <img src="https://github.com/user-attachments/assets/ebbdcfa1-5622-4ca8-86cb-8af89e0f8dcc" />
+       </a>
+     </td>
+   </tr>
+ </table>
+</div>
+-->
