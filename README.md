@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/> -->
 
 
-<!-- <div align="center"><h3>🛠 Contributions 🛠</h3>
+<div align="center"><h3>👣 Contributions 👣</h3>
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=FFD82F&text_color=FFFFFF&title_color=FFD82F&bg_color=161B22&border_radius=10"
@@ -85,12 +85,17 @@
     />
   </a>
 </div>
--->
 
-<!--
+##
+
 <div align="center"><h3>✒ Blog ✒</h3>
  <table witdh="100%" align="center">
    <tr>
+      <td>
+        <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-Element%EB%A5%BC-%EC%B6%94%EA%B0%80%ED%95%A0%EA%B9%8C-innerHTML">
+         <img src="https://github.com/user-attachments/assets/44feadc8-0d9c-4a80-9367-ab0feab40d78" />
+       </a>
+     </td>
      <td>
           <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-CSR-vs-SSR?type=Blog">
            <img src="https://github.com/user-attachments/assets/1ac548af-40eb-4130-b7c5-8b9b82e1cbdc" />
@@ -104,4 +109,3 @@
    </tr>
  </table>
 </div>
--->
