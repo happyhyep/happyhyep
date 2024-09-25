@@ -55,13 +55,8 @@
 
 ##
 
-<!-- <div align="center"><h3>☁️ Collaborate ☁️</h3></div>
-<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white"/> 
-<img src="https://img.shields.io/badge/monday-ECD53F?style=flat&logo=&logoColor=white"/> 
-<img src="https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white"/> 
-
   
-<div align="center"><h3>🖌 Design 🖌</h3></div>
+<!-- <div align="center"><h3>🖌 Design 🖌</h3></div>
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=black"/>
@@ -69,7 +64,13 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=black"/> -->
 
 
+
 <div align="center"><h3>👣 Contributions 👣</h3>
+  <!-- <a href="https://github.com/happyhyep">
+   <img width="40%" src="https://streak-stats.demolab.com?user=happyhyep&theme=buefy-dark&locale=ko"/>
+  </a>
+  <br />
+  -->
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=FFD82F&text_color=FFFFFF&title_color=FFD82F&bg_color=161B22&border_radius=10"
