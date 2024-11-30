@@ -98,13 +98,13 @@
        </a>
      </td>
      <td>
-          <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-CSR-vs-SSR?type=Blog">
-           <img src="https://github.com/user-attachments/assets/aa94c92d-d6d0-4855-81da-e184f2d2fa97" />
+          <a href="https://velog.io/@happyhyep/%EC%A7%80%EB%8F%84%EC%99%80-%ED%95%A8%EA%BB%98-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%BA%94%EB%B2%84%EC%8A%A4-%EA%B5%AC%ED%98%84-%EC%8A%A4%ED%86%A0%EB%A6%AC">
+           <img src="https://github.com/user-attachments/assets/0011b13d-942c-47b5-8b60-804c4eb312e9" />
          </a>
      </td>
      <td>
-        <a href="https://velog.io/@happyhyep/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%82%B0%EB%93%9C%EB%A1%9C-%EB%A7%88%EC%BF%A0%EC%86%8C%EB%A5%BC-%EC%9D%BD%EA%B3%A0">
-         <img src="https://github.com/user-attachments/assets/b58161fe-2c28-449e-939b-32043f9de21a" />
+        <a href="https://velog.io/@happyhyep/Nginx%EC%99%80-Docker-Compose%EB%A1%9C-React-%EC%95%B1-%EB%B0%B0%ED%8F%AC-%EA%B3%BC%EC%A0%95.%EC%B0%90Final">
+         <img src="https://github.com/user-attachments/assets/93afb9da-4a6f-4108-b519-5e0fdbab45c6" />
        </a>
      </td>
    </tr>
