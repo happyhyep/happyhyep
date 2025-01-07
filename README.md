@@ -102,8 +102,8 @@
          </a>
      </td>
      <td>
-        <a href="https://velog.io/@happyhyep/Nginx%EC%99%80-Docker-Compose%EB%A1%9C-React-%EC%95%B1-%EB%B0%B0%ED%8F%AC-%EA%B3%BC%EC%A0%95.%EC%B0%90Final">
-         <img src="https://github.com/user-attachments/assets/93afb9da-4a6f-4108-b519-5e0fdbab45c6" />
+        <a href="https://velog.io/@happyhyep/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%86%8C%EC%BC%93-%ED%86%B5%EC%8B%A0%EC%9D%98-%EB%8F%84%EC%A0%84%EA%B8%B0-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%A1%B0%EA%B1%B4%EC%9D%B4-%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94-%ED%86%B5%EC%8B%A0">
+         <img src="https://github.com/user-attachments/assets/c47daae4-7aeb-40e2-906c-0249b3e36b94" />
        </a>
      </td>
    </tr>
