@@ -21,7 +21,7 @@
 <h6>- <a href="https://brand.apoc.day/" target="_blank">(주) 팜피</a> 개발팀 인턴 ( 2023.09 ~ 2023.12 )</h6>
  <!-- <h6>- Apple Developer Academy @ POSTECH 3기 ( 2024.03 ~ )</h6> -->
 <h6>- <a href="https://www.famppy.com/" target="_blank">네이버 부스트캠프 웹모바일</a> 웹풀스택 9기 수료 ( 2024.08 ~ 2024.12 )</h6>
- <h6>- <a href="https://www.naverlabs.com/" target="_blank">(주) 네이버 랩스</a> FE 인턴 ( 2025.02 ~ )</h6>
+ <h6>- <a href="https://www.naverlabs.com/" target="_blank">(주) 네이버 랩스</a> 인턴 ( 2025.02 ~ )</h6>
 <h6>...</h6>
 
 
