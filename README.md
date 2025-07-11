@@ -107,5 +107,22 @@
        </a>
      </td>
    </tr>
+  <tr>
+   <td>
+    <a href="https://velog.io/@happyhyep/ux-%ED%95%B4%EC%A0%81%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0">
+     <img src="https://github.com/user-attachments/assets/53637aa9-98f1-4f29-aca1-82ffa26d18c0" />
+    </a>
+   </td>
+   <td>
+    <a href="https://velog.io/@happyhyep/%EC%98%88%EC%83%81-%EB%AA%BB%ED%95%9C-10%EB%A7%8C-%EB%AA%85-%EC%A0%91%EC%86%8D-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A1%9C%EA%B7%B8-%ED%99%95%EC%9D%B8">
+     <img src="https://github.com/user-attachments/assets/b477f3a2-5bf9-4ff7-b907-02f63de134d9" />
+    </a>
+   </td>
+   <td>
+    <a href="https://velog.io/@happyhyep/%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-CSR-vs-SSR">
+     <img src="https://github.com/user-attachments/assets/35076d92-9268-4aac-a237-d799fa0b9dab" />
+    </a>
+   </td>
+  </tr>
  </table>
 </div>
