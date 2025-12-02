@@ -64,18 +64,19 @@
 
 
 <div align="center"><h3>👣 Contributions 👣</h3>
+ <div>
   <!-- <a href="https://github.com/happyhyep">
    <img width="40%" src="https://streak-stats.demolab.com?user=happyhyep&theme=buefy-dark&locale=ko"/>
   </a>
   <br />
   -->
-  <a href="https://github.com/happyhyep/reacture">
+  <!-- <a href="https://github.com/happyhyep/reacture">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=happyhyep&repo=reacture&icon_color=FFBA01&text_color=FFFFFF&title_color=FFBA01&bg_color=161B22&border_radius=10"
       alt="happyhyep/reacture"
       title="Maintainer"
     />
-  </a>
+  </a> -->
   <!-- <a href="https://www.npmjs.com/package/@happyhyep/tree-component">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=happyhyep&repo=tree-component&icon_color=FFBA01&text_color=FFFFFF&title_color=FFBA01&bg_color=161B22&border_radius=10"
@@ -83,17 +84,19 @@
       title="Maintainer"
     />
   </a> -->
-  <a href="https://github.com/mdn/translated-content">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
-      alt="mdn/translated-content"
-      title="Contributor"
-    />
-  </a>
   <a href="https://github.com/reactjs/ko.react.dev">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
       alt="reactjs/ko.react.dev"
+      width="33%" 
+      title="Contributor"
+    />
+  </a>
+  <a href="https://github.com/mdn/translated-content">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
+      alt="mdn/translated-content"
+      width="33%" 
       title="Contributor"
     />
   </a>
@@ -101,9 +104,11 @@
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=naver&repo=fe-news&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
       alt="naver/fe-news"
+      width="33%" 
       title="Contributor"
     />
   </a>
+ </div>
 </div>
 
 ##
