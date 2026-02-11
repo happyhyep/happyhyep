@@ -84,29 +84,31 @@
       title="Maintainer"
     />
   </a> -->
-  <a href="https://github.com/reactjs/ko.react.dev">
-    <img
+  <a href="https://github.com/reactjs/ko.react.dev">- reactjs/ko.react.dev
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=reactjs&repo=ko.react.dev&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
       alt="reactjs/ko.react.dev"
       width="33%" 
       title="Contributor"
-    />
+    /> -->
   </a>
-  <a href="https://github.com/mdn/translated-content">
-    <img
+  <br />
+  <a href="https://github.com/mdn/translated-content">- mdn/translated-content
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=mdn&repo=translated-content&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
       alt="mdn/translated-content"
       width="33%" 
       title="Contributor"
-    />
+    /> -->
   </a>
-  <a href="https://github.com/naver/fe-news">
-    <img
+  <br />
+  <a href="https://github.com/naver/fe-news">- naver/fe-news
+    <!-- <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=naver&repo=fe-news&icon_color=FEE745&text_color=FFFFFF&title_color=FEE745&bg_color=161B22&border_radius=10"
       alt="naver/fe-news"
       width="33%" 
       title="Contributor"
-    />
+    /> -->
   </a>
  </div>
 </div>
