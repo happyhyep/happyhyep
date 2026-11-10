@@ -12,7 +12,7 @@
 <div align="center"><h3>💻 Profile 💻</h3></div>
 <!-- <p>👩🏻‍💻더 많은 내용은 <a href="https://happyhyep.github.io/portfolio/" target="_blank">포트폴리오</a>를 참고해주세요👩🏻‍💻</p> -->
 
-<h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학과</a> ( 2021.02 ~ )</h6>
+<h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학과</a> ( 2021.02 ~ 2026.08 )</h6>
 <!-- <h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학부</a> 부학생회장 ( 2022.03 ~ 2022.12 )<h6> -->
 <h6>- <a href="https://software.khu.ac.kr/software/user/main/view.do">경희대학교 소프트웨어융합대학</a> 동아리대항전 최우수 ( 2022.08 )</h6>
 <h6>- <a href="https://ce.khu.ac.kr/ce/user/main/view.do">경희대학교 컴퓨터공학부</a> 학생회장 ( 2023.01 ~ 2023.12 ) <h6>
