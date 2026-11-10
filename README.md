@@ -22,6 +22,7 @@
 <h6>- <a href="https://boostcamp.connect.or.kr/" target="_blank">네이버 부스트캠프 웹모바일</a> 웹풀스택 9기 수료 ( 2024.08 ~ 2024.12 )</h6>
 <h6>- <a href="https://uxpirates.xyz/" target="_blank">UX 해적단</a> 웹 사이트 풀스택 개발 ( 접속자 수 20만명 + )</h6>
 <h6>- <a href="https://www.naverlabs.com/" target="_blank">(주) 네이버 랩스</a> 인턴 ( 2025.02 ~ 2025.08 )</h6>
+<h6>- <a href="https://www.shinhan.com/index.jsp" target="_blank">신한은행</a> 신탁,ISA 투자서비스 및 SOL뱅크 개발 ( 2026.07 ~ )</h6>
 <h6>...</h6>
 
 
